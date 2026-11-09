@@ -11,7 +11,7 @@
 
 ## 1. Purpose
 
-The Product Backlog is the prioritized list of features, improvements, and work items proposed for the Wrio Byte Employee Management System.
+The Product Backlog is the prioritized list of features, improvements, and work items proposed for the Employee Management System.
 
 It provides a shared reference for the Product Owner and development team when discussing requirements, estimating effort, planning sprints, and tracking product progress.
 
