@@ -1,6 +1,6 @@
-# Wrio Byte – Project Management
+# Project Management
 
-This folder contains the project management documents used to plan, organize, monitor, and track the development of the Wrio Byte Employee Management System.
+This folder contains the project management documents used to plan, organize, monitor, and track the development of the Employee Management System.
 
 ## Contents
 
