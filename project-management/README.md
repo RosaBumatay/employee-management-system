@@ -11,6 +11,7 @@ This folder contains the project management documents used to plan, organize, mo
 | `sprint-reports/` | Stores sprint progress and review reports |
 | `status-reports/` | Stores overall project status updates |
 | `communication-managament-plan.md` | Communication Management Plan |
+| `issue-log.md` | Project Issue Log |
 
 ## Project Management Approach
 
