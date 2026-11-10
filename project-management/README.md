@@ -10,6 +10,7 @@ This folder contains the project management documents used to plan, organize, mo
 | `sprint-planning.md` | Records sprint goals, selected backlog items, and planned work |
 | `sprint-reports/` | Stores sprint progress and review reports |
 | `status-reports/` | Stores overall project status updates |
+| 'communication-management-plan.md' | Communication Management Plan |
 
 ## Project Management Approach
 
